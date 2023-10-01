@@ -1,5 +1,7 @@
 # Home-Lab
-<h1>Virtual Machine and Active Directory</h1>
-<h2>Virtual Machine and Active Directory</h2>
+<h1>Basic Virtual Machine and Active Directory Home Lab Set up</h1>
+
+<h2>Description</h2>
+I made this project to serve as a general walkthrough for people to set up Actice Directory, DNS, DHCP, NAT and RAS in an emulated enterprise setting!
 
 Descri
