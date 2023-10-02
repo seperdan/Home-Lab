@@ -22,8 +22,26 @@
 
 <b>For this setup, we will be using this network diagram:<b>
 <img src="68747470733a2f2f692e696d6775722e636f6d2f496678766f59532e706e67.png">
-<b>and utilizing VMware to create virtual setup of a Windows Server 2019 connecting to and managing a Windows 10 client. To start, download the Oracle VM VirtualBox, Microsoft Server 2019 ISO, and Microsoft Windows 10 ISO from the links under <h2>Environments and Tools Used</h2>. 
+<b>and utilizing VMware to create virtual setup of a Windows Server 2019 connecting to and managing a Windows 10 client. To start, download the Oracle VM VirtualBox, Microsoft Server 2019 ISO, and Microsoft Windows 10 ISO from the links under "Environments and Tools Used</h2>.
+ 
 
-<br>Note: <br>
+<br>Note: to obtain the Windows 10 ISO file, it's usually a little trickier than simply downloading it. you must first download the Windows 10 Media Creation Tool from the provided link (often called: "MediaCreationTool22H2.exe"). 
+
+<img scr="2.png">
+<img scr=1.png">
+
+After running the Media Creation file, you will be presented with the option to Upgrade your Windows or create an installation media. Click on "create an installation media" option.
+
+<img scr="3.png">
+
+Then click on "ISO file" to create your Windows 10 ISO image file.
+
+<img scr="4.png">
+
+Now you have all your files:
+
+<img scr="5.png">
+
+</br>
 
 
