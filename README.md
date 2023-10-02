@@ -18,3 +18,12 @@
 <br>Microsoft Server 2019: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019</br>
 <br>Microsoft Windows 10 ISO: https://www.microsoft.com/en-us/software-download/windows10</br>
 
+<h2 align="center">Setup walkthrough</h2>
+
+<b>For this setup, we will be using this network diagram:<b>
+<img src="68747470733a2f2f692e696d6775722e636f6d2f496678766f59532e706e67.png">
+<b>and utilizing VMware to create virtual setup of a Windows Server 2019 connecting to and managing a Windows 10 client. To start, download the Oracle VM VirtualBox, Microsoft Server 2019 ISO, and Microsoft Windows 10 ISO from the links under <h2>Environments and Tools Used</h2>. 
+
+<br>Note: <br>
+
+
