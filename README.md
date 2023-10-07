@@ -3,7 +3,7 @@
 <h2>Description</h2>
 <b>I made this project to serve as a general walkthrough for people to set up Actice Directory, DNS, DHCP, NAT and RAS in an emulated enterprise setting!</b>
 
-<h2>Utilities a& Services Used and Created</h2>
+<h2>Utilities & Services Used and Created</h2>
 <br>- Powershell</br> 
 <br>- Server Manager</br>
 <br>- Active Directory</br>
