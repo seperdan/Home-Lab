@@ -88,7 +88,7 @@ Then click on "ISO file" to create your Windows 10 ISO image file.
 <br>Once restarted, open Server Manager and click on "Add roles and features"<br>
 <img src="13.png" width="70%" height="70%" alt=Active Directory>
 
-and by following this short clip, install the "Active Directory Users and Computers", "DHCP", "DNS", and "Remote Access"!
+and by following this short clip, install the "Active Directory Domain Services", "DHCP", "DNS", and "Remote Access"!
 
 https://github.com/seperdan/Home-Lab/assets/54723844/8d63997c-72d5-421b-a6a4-d504b36dba4a
 
