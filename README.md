@@ -102,7 +102,7 @@ https://github.com/seperdan/Home-Lab/assets/54723844/7384b2bb-f567-4002-92fe-1c6
 
 <img src="17.png" width="70%" height="70%" alt=New Name>
 
-<b>Next, navigate to Active Directory Users and Computers either through using the Windows search. Then right click on your domain, create a new Organizationl Unit (OU), name it something like "_ADMIN", right click on the new OU to create a new user with your credentials. This user will serve as the domain administrator!</b>
+<b>Next, navigate to Active Directory Users and Computers through using the Windows search. Then right click on your domain, create a new Organizationl Unit (OU), name it something like "_ADMIN", right click on the new OU to create a new user with your credentials. This user will serve as the domain administrator!</b>
 
 https://github.com/seperdan/Home-Lab/assets/54723844/476cb34b-eb85-4b69-a271-e8cd334ba068
 
