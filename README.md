@@ -24,8 +24,7 @@
 
 <b>Our first virtual machine will the the Server. It will house two network adapters, one for connecting to the outside interent and the other for conenction to the virtual box's private network that the clients will connect to. Note that the external network will gain automatic addressing from our home network but we will need to assign an IP address to the internal network which we'll take care of shortly. Once having done so, we will install services such as Active Directory, DNS, DHCP, etc. and then lastly configure the Windows 10 client image to connect to the server image!</b>
 
-<b>and utilizing VMware to create virtual setup of a Windows Server 2019 connecting to and managing a Windows 10 client. To start, download the Oracle VM VirtualBox, Microsoft Server 2019 ISO, and Microsoft Windows 10 ISO from the links under "Environments and Tools Used</b>.
- 
+ <b>In short, We will be utilizing VMware to create virtual setup of a Windows Server 2019 connecting to and managing a Windows 10 client. To start, download the Oracle VM VirtualBox, Microsoft Server 2019 ISO, and Microsoft Windows 10 ISO from the links under "Environments and Tools Used</b>.
 
 <br>Note: to obtain the Windows 10 ISO file, it's usually a little trickier than simply downloading it. You must first download the Windows 10 Media Creation Tool from the provided link (often called: "MediaCreationTool22H2.exe"). 
 
