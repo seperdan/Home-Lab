@@ -94,6 +94,7 @@ and by following this short clip, install the "Active Directory Users and Comput
 https://github.com/seperdan/Home-Lab/assets/54723844/8d63997c-72d5-421b-a6a4-d504b36dba4a
 
 <img src="16.png" width="70%" height="70%" alt=INSTALL>
+
 <b>Installing these services will take a few minutes. Once this is done, we we will need to create a Domain to go with the Active Directory Domain Services (AD DS) we just set up.</b>
 
 https://github.com/seperdan/Home-Lab/assets/54723844/7384b2bb-f567-4002-92fe-1c6c85e7644d
